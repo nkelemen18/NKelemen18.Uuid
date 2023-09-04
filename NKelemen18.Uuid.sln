@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NKelemen18.Uuid", "NKelemen18.Uuid\NKelemen18.Uuid.csproj", "{32A73C8A-58F4-4E5B-9669-ECE3E13C4996}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NKelemen18.UuidTest", "NKelemen18.UuidTest\NKelemen18.UuidTest.csproj", "{939E26F2-D690-4056-9838-1372D272886B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32A73C8A-58F4-4E5B-9669-ECE3E13C4996}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32A73C8A-58F4-4E5B-9669-ECE3E13C4996}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32A73C8A-58F4-4E5B-9669-ECE3E13C4996}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32A73C8A-58F4-4E5B-9669-ECE3E13C4996}.Release|Any CPU.Build.0 = Release|Any CPU
+		{939E26F2-D690-4056-9838-1372D272886B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{939E26F2-D690-4056-9838-1372D272886B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{939E26F2-D690-4056-9838-1372D272886B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{939E26F2-D690-4056-9838-1372D272886B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Description>Next generation UUID library for .Net</Description>
+        <Copyright>Norbert Kelemen</Copyright>
+        <PackageProjectUrl>https://github.com/nkelemen18/NKelemen18.Uuid</PackageProjectUrl>
+        <PackageIcon>icon.png</PackageIcon>
+        <RepositoryUrl>https://github.com/nkelemen18/NKelemen18.Uuid</RepositoryUrl>
+        <RepositoryType>git</RepositoryType>
+        <PackageTags>uuid, guid, uuidv7, id</PackageTags>
+        <NeutralLanguage>en</NeutralLanguage>
+        <LangVersion>10</LangVersion>
+        <PackageReadmeFile>README.md</PackageReadmeFile>
+        <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
+        <Version>1.0.1</Version>
+    </PropertyGroup>
+
+
+    <ItemGroup>
+        <None Include="icon.png" Pack="true" PackagePath="\"/>
+        <None Include="..\README.md" Pack="true" PackagePath="\"/>
+        <None Include="..\LICENSE.txt" Pack="true" PackagePath="\"/>
+    </ItemGroup>
+</Project>
